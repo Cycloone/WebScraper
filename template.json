@@ -1,0 +1,17 @@
+{
+   "title_tags":"h1",
+   "content_tags":"p",
+   "nested_tags":[
+      "p",
+      "i",
+      "span",
+      "a",
+      "b",
+      "strong"
+   ],
+   "exclude_tags":[
+      "header",
+      "footer"
+   ],
+   "rows_length":80
+}
